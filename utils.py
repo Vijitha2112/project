@@ -15,7 +15,7 @@ def generate_recipe(ingredients):
     You are a professional chef. Create a detailed recipe using the following ingredients:
     {ingredients}.
     Include:
-    1. Recipe name
+    1. Recipe name  
     2. Short description
     3. List of ingredients with measurements
     4. Step-by-step cooking instructions
